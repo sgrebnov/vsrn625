@@ -1,22 +1,14 @@
 {
-    "repos": [
+    "appcenter_apps": [
         {
-            "provider": "github",
-            "repo_owner": "sergey-akhalkov",
-            "repo_name": "vsrn625",
             "branch_template": "master",
-            "appcenter_owner_type": "orgs",
-            "appcenter_owner": "app-center",
-            "appcenter_app": "prcheck-ios"
+            "owner_name": "app-center",
+            "app_name": "prcheck-ios"
         },
         {
-            "provider": "github",
-            "repo_owner": "sergey-akhalkov",
-            "repo_name": "vsrn625",
             "branch_template": "master",
-            "appcenter_owner_type": "orgs",
-            "appcenter_owner": "app-center",
-            "appcenter_app": "prcheck-android"
+            "owner_name": "app-center",
+            "app_name": "prcheck-android"
         }
     ]
 }
